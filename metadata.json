@@ -1,0 +1,6 @@
+{
+  "name": "Aurora Advocacia Empresarial",
+  "description": "Assessoria jurídica empresarial em São Paulo para contratos, governança, compliance, gestão de riscos, proteção de dados e decisões estratégicas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
